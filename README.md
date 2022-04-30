@@ -1,3 +1,3 @@
 # swaidla
 
-# Script for the translation function of Glide App SWAIDLA
+### Script for the translation function of Glide App SWAIDLA
